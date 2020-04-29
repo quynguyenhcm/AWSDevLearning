@@ -1,0 +1,12 @@
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\bin\Debug\netcoreapp3.1\AWSServerlessApplication.deps.json
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\bin\Debug\netcoreapp3.1\AWSServerlessApplication.runtimeconfig.json
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\bin\Debug\netcoreapp3.1\AWSServerlessApplication.runtimeconfig.dev.json
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\bin\Debug\netcoreapp3.1\AWSServerlessApplication.dll
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.csprojAssemblyReference.cache
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.AssemblyInfoInputs.cache
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.AssemblyInfo.cs
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.genruntimeconfig.cache
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\bin\Debug\netcoreapp3.1\AWSServerlessApplication.pdb
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.csproj.CoreCompileInputs.cache
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.dll
+C:\Users\quyn\source\repos\AWSServerlessApplication\AWSServerlessApplication\obj\Debug\netcoreapp3.1\AWSServerlessApplication.pdb
